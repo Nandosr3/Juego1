@@ -1,3 +1,4 @@
+#Adivina el Número
 🎲 Partida: Adivina el Nímero
 ¡Hola a todos del proyecto "Adivina tú Número!" Este es un juego cotidiano que desarrolla en Python, cuyo objetivo es determinar un número secreto que la computadora ha "creado" en un intervalo de 1 a 100.
 🏛️ La arquitectura y la enfermedad del software
