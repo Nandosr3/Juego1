@@ -1,5 +1,4 @@
-# Adivina el Número
-## 🎲 Partida: Adivina el Nímero
+# Adivina el Número 🎲
 ¡Hola a todos del proyecto "Adivina tú Número!" Este es un juego cotidiano que desarrolla en Python, cuyo objetivo es determinar un número secreto que la computadora ha "creado" en un intervalo de 1 a 100.
 ## 🏛️ La arquitectura y la enfermedad del software
 Este proyecto no solo es un juego, es una forma de demostrar un problema de software limpio y modular. La estructura del código parte de una de las prácticas más importantes de la programación, el Principio de Responsabilidad Única (SRP).Es decir, el programa lo hemos fragmentado en funciones especializadas, en el que cada función sólo tiene una misión. La arquitectura permite obtener ventajas importantes:-
