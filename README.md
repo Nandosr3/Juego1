@@ -18,6 +18,8 @@ Presenta el ritmo general del juego despues de la función jugar_adivinanza().
 Está relacionado con las funciones de matar_bienvenida_y_obtener_nombre() y configurar_juego().
  ### 3. Funcionalidad 2: Verificación de la Entrada del Usuario Funcionalidad: 
  Verificación de la Entrada del Usuario Funcionalidad 2 obtener_numero_valido 
- ### 4. Funcionalidad 3: Lógica de comparación y pistas Funcionalidad Ejemplo del procedimiento de comparación_y_dar_pista().
+ ### 4. Funcionalidad 3: Lógica de comparación y pistas Funcionalidad 
+
+ Ejemplo del procedimiento de comparación_y_dar_pista().
  ### 5. Funcionalidad 4: Conclusión y resultados Funcionalidad Finalización y conclusiones 
 Graphicalmente representa la lógica de la función más_resultado_final().
