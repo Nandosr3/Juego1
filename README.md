@@ -26,5 +26,5 @@ Graphicalmente representa la lógica de la función más_resultado_final().
 
 # ⚙️ Entorno de Desarrollo y Requisito
 
-El proyecto fue desarollado en phyton:
+Este proyecto fue desarrollado y probado con las siguientes tecnologías:
 Lenguaje: Python (versión 3.13.5)
