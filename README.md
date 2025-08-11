@@ -23,3 +23,7 @@ Está relacionado con las funciones de matar_bienvenida_y_obtener_nombre() y con
  Ejemplo del procedimiento de comparación_y_dar_pista().
  ### 5. Funcionalidad 4: Conclusión y resultados Funcionalidad Finalización y conclusiones 
 Graphicalmente representa la lógica de la función más_resultado_final().
+
+⚙️ Entorno de Desarrollo y Requisito
+El proyecto fue desarollado en phyton:
+Lenguaje: Python (versión 3.13.5)
